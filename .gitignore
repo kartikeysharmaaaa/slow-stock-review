@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Streamlit secrets (never commit)
+.streamlit/secrets.toml
+
+# Excel exports downloaded from the app, and Excel lock files
+slow_stock_review_*.xlsx
+~$*.xlsx
+
+# Personal notes: setup guide, written answers, interview prep
+notes/
+
+# Editors / tools / OS
+.claude/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
