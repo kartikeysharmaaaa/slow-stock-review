@@ -3,7 +3,7 @@
 Turns the four monthly system exports (Item_Master, Stock_Aging, Sales_Lines, Customers)
 into a checked, rule-based slow-stock action list with customer call lists for sales.
 
-**Live app:** <paste link after deploying>
+**Live app:** https://slow-stock-review-kartikey.streamlit.app/
 
 ## What it does
 
